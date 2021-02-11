@@ -35,7 +35,12 @@
 <code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node JS" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="c#" width="22" height="22"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="C#" width="22" height="22"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="22" height="22"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="22" height="22"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="22" height="22"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="22" height="22"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="22" height="22"/></code>
 
 <h3 align="center">GITHUB STATS<hr/></h3>
 
