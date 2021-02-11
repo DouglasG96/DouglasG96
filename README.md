@@ -6,7 +6,7 @@
 
 #### About me 😃
 
-- 🌱 I’m currently learning **Java, Vue(Quasar), ReactJS**.
+- 🌱 I’m currently learning **Java, Vue(Quasar), ReactJS, Kubernetes, Azure**.
 
 - 👯 I’m looking to collaborate with **other content creators**.
 
