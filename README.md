@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kriss Miñano</h1>
-<h3 align="center">A self-taught dedicated developer 💁 </h3>
+<h1 align="center">Hi 👋, I'm Douglas Guzmán</h1>
+<h3 align="center">A self-taught dedicated developer 😎 </h3>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/kricaroli?label=carolina&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/krisscaroli?logo=GitHub&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/Gdegentleman_?label=Gdegentleman_&style=social)
+![GitHub followers](https://img.shields.io/github/followers/DouglasG96?label=DouglasG96&style=social)
 
 #### About me 😃
 
-- 🌱 I’m currently learning **Java, Spring Boot, ReactJS, Python**.
+- 🌱 I’m currently learning **Java, Vue(Quasar), ReactJS**.
 
 - 👯 I’m looking to collaborate with **other content creators**.
 
@@ -18,10 +18,10 @@
   📣 Connect With Me :<br/>
    <br>
 
-<a href="mailto:sdckrissminano@gmail.com?subject=[GitHub]%20🔥%20Want%20To%20contact&body=Hello Kriss Miñano%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-<a href="https://www.instagram.com/kricaroly/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/kcarolinamr/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/kricaroli"><img src="https://img.shields.io/badge/twitter-0077B5.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:drgb96@gmail.com?subject=[GitHub]%20🔥%20Want%20To%20contact&body=Hello Douglas Guzman%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+<a href="https://www.instagram.com/douglasguzman_96/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/douglas-guzman-863b76183/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/Gdegentleman_"><img src="https://img.shields.io/badge/twitter-0077B5.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 </p>
 
@@ -45,7 +45,7 @@
 <h3 align="center">GITHUB STATS<hr/></h3>
 
 <p align="center">
-<a href="https://github.com/krisscaroli">
+<a href="https://github.com/DouglasG96">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=krisscaroli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krisscaroli&layout=compact&langs_count=8&theme=dracula"/>
 </a>
