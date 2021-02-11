@@ -35,7 +35,7 @@
 <code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node JS" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/firebase/c#.svg" alt="c#" width="22" height="22"/></code>
+<code><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/dotnet/dotnet-vertical.svg" alt="c#" width="22" height="22"/></code>
 
 <h3 align="center">GITHUB STATS<hr/></h3>
 
