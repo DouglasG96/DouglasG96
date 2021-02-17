@@ -6,11 +6,11 @@
 
 #### About me 😃
 
-- 🌱 I’m currently learning **Java, Vue(Quasar), ReactJS, Kubernetes, Azure**.
+-  🏗 I’m currently learning **Java, Vue, ReactJS, Kubernetes, Azure**.
 
-- 👯 I’m looking to collaborate with **other content creators**.
+- 🤲🏼 I’m looking to collaborate with **other content creators**.
 
-- 👫 I work with agile methodologies such as **Scrum**.
+- 📈 I work with agile methodologies such as **Scrum**.
 
  <br>
 
