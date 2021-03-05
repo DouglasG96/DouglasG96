@@ -43,7 +43,7 @@
 <code><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Linux" width="22" height="22"/></code>
 
-
+<!-- AQUI ESTUVO MUZA PROGRAMMER-->
 
 <h3 align="center">GITHUB STATS<hr/></h3>
 
