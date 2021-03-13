@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Douglas Guzmán</h1>
 <h3 align="center">A self-taught dedicated developer 😎 </h3>
 
-<a href="https://twitter.com/Gdegentleman_">![Twitter Follow](https://img.shields.io/twitter/follow/Gdegentleman_?label=Gdegentleman_&style=social)</a>
-<a href="https://github.com/DouglasG96">![GitHub followers](https://img.shields.io/github/followers/DouglasG96?label=DouglasG96&style=social)</a>
+<a href="https://twitter.com/Gdegentleman_"> ![Twitter Follow](https://img.shields.io/twitter/follow/Gdegentleman_?label=Gdegentleman_&style=social) </a>
+<a href="https://github.com/DouglasG96"> ![GitHub followers](https://img.shields.io/github/followers/DouglasG96?label=DouglasG96&style=social) </a>
 
 #### About me 😃
 
