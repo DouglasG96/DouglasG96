@@ -6,7 +6,7 @@
 
 #### About me 😃
 
--  🏗 I’m currently learning **C#, VueJS, AngularJs, Docker, Azure**.
+-  🏗 I’m currently learning **C#, ReactJS, Docker, Azure**.
 
 - 🤲🏼 I’m looking to collaborate with **other content creators**.
 
