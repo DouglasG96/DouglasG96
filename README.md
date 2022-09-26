@@ -6,7 +6,7 @@
 
 #### About me 😃
 
--  🏗 I’m currently learning **C#, React, Docker, AWS**.
+-  🏗 I’m currently learning **JAVA Springboot, React, AWS**.
 
 - 🤲🏼 I’m looking to collaborate with **other content creators**.
 
