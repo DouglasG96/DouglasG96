@@ -1,3 +1,6 @@
+<p align='center'>
+    <img src="https://gidigi.com/cdn/love.gif">
+</p>
 <h1 align="center">Hi 👋, I'm Douglas Guzmán</h1>
 <h3 align="center">A self-taught dedicated developer 😎 </h3>
 
@@ -53,3 +56,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DouglasG96&layout=compact&langs_count=8&theme=merko"/>
 </a>
 </p>
+
+<b>🔥 Github Streaks</b>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasG96&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="DouglasG96" /></p>
+
+
