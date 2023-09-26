@@ -9,7 +9,7 @@
 
 #### About me 😃
 
--  🏗 I’m currently learning **JAVA Springboot, Python, AWS**.
+-  🏗 I’m currently learning **Terraform, Python, AWS**.
 
 - 🤲🏼 I’m looking to collaborate with **other content creators**.
 
