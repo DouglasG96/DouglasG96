@@ -9,7 +9,7 @@
 
 #### About me 😃
 
--  🏗 I’m currently learning **Terraform, Python, AWS**.
+-  🏗 I’m currently learning **GCP, Python, AWS**.
 
 - 🤲🏼 I’m looking to collaborate with **other content creators**.
 
@@ -37,7 +37,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node JS" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="22" height="22"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="C#" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="22" height="22"/></code>
